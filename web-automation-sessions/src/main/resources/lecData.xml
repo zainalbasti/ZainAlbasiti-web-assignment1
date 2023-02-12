@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+
+    <gender>Male</gender>
+    <firstName>Zain</firstName>
+    <lastName>Basiti</lastName>
+    <email>zain1899@gmail.com</email>
+    <email2>zain.albasiti@maf.ae</email2>
+    <password3>Zain1997***</password3>
+    <phone>550826659</phone>
+    <nationality>jor</nationality>
+    <nationality2>unit</nationality2>
+    <randomEmailDomain>@gmail.com</randomEmailDomain>
+    <message>This message for testing purpose</message>
+    <ShowProgramName>Test Program</ShowProgramName>
+    <TheApplicationNam>MAF APP</TheApplicationNam>
+    <CoverageType>School / University Project</CoverageType>
+    <NoOfCrewMembers>1</NoOfCrewMembers>
+    <TextArea>hi this is the text area</TextArea>
+    <phoneNumber>509876543</phoneNumber>
+    <Other>Other</Other>
+    <OrganisationChannelName>Female</OrganisationChannelName>
+
+    <visaCard1>4456530000001005</visaCard1>
+    <visaCard2>4456530000001096</visaCard2>
+    <masterCard1>5200000000001005</masterCard1>
+    <masterCard2>5200000000001096</masterCard2>
+    <amexCard1>377400111111115</amexCard1>
+    <visaCard3d>4242424242424242</visaCard3d>
+    <masterCard3d>5123450000000008</masterCard3d>
+    <cardExp>2929</cardExp>
+    <cardCSV>333</cardCSV>
+    <userName>pahosov850@exoacre.com</userName>
+    <passWord>P@ssw0rd147</passWord>
+
+    <userName1>Nosavecc@yahoo.com</userName1>
+    <passWord1>Zain1997**</passWord1>
+
+    <userName2>ski.test.dubai.4@gmail.com</userName2>
+    <passWord2>Test@123</passWord2>
+
+    <userWithNoTransactionsEmail>adx212070+000@gmail.com</userWithNoTransactionsEmail>
+    <userWithNoTransactionsPassWord>Test@123</userWithNoTransactionsPassWord>
+
+    <userWithNoSavedCardEmail>adx212070+444@gmail.com</userWithNoSavedCardEmail>
+    <userWithNoSavedCardPassWord>Test@123</userWithNoSavedCardPassWord>
+
+    <guestFirstName>Ali</guestFirstName>
+    <guestLastName>Mohammad</guestLastName>
+
+
+    <VOX-URL>https://uae.voxcinemas.com</VOX-URL>
+    <FullDaySlope>Full Day Slope Pass</FullDaySlope>
+    <TwoHoursSlopePass>2 Hours Slope Pass</TwoHoursSlopePass>
+    <PenguinEncounter>Penguin Encounter</PenguinEncounter>
+    <AllGuests>All Guests</AllGuests>
+    <SnowPark>Snow Park</SnowPark>
+    <FullDaySlopePrice>340</FullDaySlopePrice>
+    <SnowParkPrice>175</SnowParkPrice>
+    <AdultLabel>Adult</AdultLabel>
+    <JuniorLabel>Junior</JuniorLabel>
+
+    <TicketLabel>Ticket</TicketLabel>
+    <masterCard>mastercard</masterCard>
+    <visaCard>visa</visaCard>
+    <coupon>Coupon</coupon>
+    <promoCode>sp100</promoCode>
+    <snowParkFullPromoCode>SNOWFREE</snowParkFullPromoCode>
+    <snowParkPartialPromoCode>SP50</snowParkPartialPromoCode>
+    <ThreeDSCard> 4242424242424242</ThreeDSCard>
+    <amexCard>376000000000006</amexCard>
+    <randomEmailDomain>@gmail.com</randomEmailDomain>
+    <password>Test@1234</password>
+
+    <bookingRegBelongForAnother>852210240079</bookingRegBelongForAnother>
+    <invalidBooking>852210030096</invalidBooking>
+
+    <Table>Table</Table>
+
+    <subFirstName>Safa</subFirstName>
+    <subLastName>Safa</subLastName>
+    <birthDate>20 Oct 2000</birthDate>
+    <guestEmail>guest@gmail.com</guestEmail>
+
+
+</Data>

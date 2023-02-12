@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+
+<suite name="Suite"  >
+    <parameter name="browser" value="remote-chrome"/>
+
+    <test name= "testOne">
+        <classes>
+            <class name="tests.web_tests.HomePageTest"/>
+            <class name="tests.web_tests.LoginTest"/>
+            <class name="tests.web_tests.AddOnsTest"/>
+            <class name="tests.web_tests.PassesAndPackagesTest"/>
+            <class name="tests.web_tests.PersonalDetailsTests"/>
+            <class name="tests.web_tests.PaymentDetailsTests"/>
+
+
+        </classes>
+    </test>
+
+</suite> <!-- Suite -->
